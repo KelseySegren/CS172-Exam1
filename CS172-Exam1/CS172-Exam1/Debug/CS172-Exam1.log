@@ -1,0 +1,4 @@
+﻿  Song.cpp
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam1\cs172-exam1\song.cpp(22): warning C4715: 'Song::isOfGenre': not all control paths return a value
+  CS172-Exam1.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\CS172-Exam1\Debug\CS172-Exam1.exe
+  CS172-Exam1.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\CS172-Exam1\Debug\CS172-Exam1.pdb (Full PDB)
